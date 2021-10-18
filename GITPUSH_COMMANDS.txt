@@ -1,0 +1,16 @@
+Push code to a repository
+
+
+- git bash here into the code local folder
+
+- git init
+
+- git add .
+
+- git status
+
+- git commit -m "your message"
+
+- git remote add origin "your_repository_url_name"
+
+- git push -u origin master
